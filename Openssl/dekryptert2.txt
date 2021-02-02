@@ -1,0 +1,7 @@
+Bra jobbet, hvis du klarte å løse denne på egenhånd har du både funnet -k parameteret for å oppgi passord på
+kommandolinje, og du har klart å lage et shell script som looper for å prøve passord.
+Alternativt har du skrevet et program i C for å gjøre det med OpenSSL biblioteket, men det er langt utenfor pensum.
+Eller så har du manuelt sjekket flere tusen passord, hvis det var slik du fant det så har du for god tid og burde
+heller fokusere på skolearbeid - eller du fikk svaret fra en medstudent...
+
+Bengt
